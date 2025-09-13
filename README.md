@@ -8,7 +8,6 @@ Displays a colorful game board with bold red X's and blue O's
 Automatically detects wins and declares a winner
 
 **How to play**
-```bashpython main.py
 Players alternate turns by entering numbers 1-9 corresponding to board positions:
 1 | 2 | 3
 ---------
@@ -33,3 +32,5 @@ Using ANSI color codes for terminal output
 2D list manipulation in Python
 Input validation and error handling
 Game logic and win condition checking
+
+
